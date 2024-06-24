@@ -10,7 +10,7 @@ import mongo from '../assets/images.png'
 
 const Skills = () => {
     return (
-        <div name='skills' className='w-full h-screen bg-[#202021] text-gray-300'>
+        <div name='skills' className='w-full h-screen bg-[#202021] text-gray-300 mb-5'>
 
             <div className='nax-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div>
