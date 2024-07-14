@@ -1,6 +1,6 @@
 import React from 'react'
 import Spotify from '../assets/S.jpg';
-import pet from '../assets/DandC.jpg';
+import pet from '../assets/doctor.jpg';
 import SSG from '../assets/SSG.jpg';
 import W from '../assets/weather.jpg';
 
