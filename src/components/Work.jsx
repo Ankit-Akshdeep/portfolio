@@ -20,10 +20,10 @@ const Work = () => {
 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Pet Adoption Application
+                               Patient Appointment System
                             </span>
                             <div className='pt-8 text-center '>
-                                <a href="/">
+                                <a href="https://github.com/Ankit-Akshdeep/patient_app">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -38,7 +38,7 @@ const Work = () => {
                                 Weather App
                             </span>
                             <div className='pt-8 text-center '>
-                                <a href="/">
+                                <a href="https://github.com/Ankit-Akshdeep/weather-app">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -50,10 +50,10 @@ const Work = () => {
 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Pet Adoption Application
+                                Simon Says Game
                             </span>
                             <div className='pt-8 text-center '>
-                                <a href="/">
+                                <a href="https://github.com/Ankit-Akshdeep/Simon-Says-Game">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -65,7 +65,7 @@ const Work = () => {
 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                               Spotify
+                               Spotify Clone (Frontend)
                             </span>
                             <div className='pt-8 text-center '>
                                 <a href="https://github.com/Ankit-Akshdeep/Spotify-Clone-/tree/main/Spotify-Clone">
